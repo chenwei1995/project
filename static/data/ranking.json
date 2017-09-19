@@ -1,0 +1,22 @@
+[{
+  "id": "1",
+  "url": "/static/images/intro.png",
+  "nums": "6685",
+  "discount": "2.3",
+  "originalprice": "235",
+  "price": "151"
+},{
+  "id": "2",
+  "url": "/static/images/intro1.png",
+  "nums": "3856",
+  "discount": "3.3",
+  "originalprice": "200",
+  "price": "201"
+},{
+  "id": "3",
+  "url": "/static/images/intro3.png",
+  "nums": "2000",
+  "discount": "4.1",
+  "originalprice": "200",
+  "price": "661"
+}]
